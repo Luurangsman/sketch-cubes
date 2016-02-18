@@ -1,0 +1,27 @@
+#grid {
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+}
+
+#button_bar {
+	margin: auto;
+	width: 1000px;
+	align: center;
+}
+
+#new_grid_button {
+	width:1000px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.cube {
+	background-color: black;
+	float: left;
+	border: 1px solid white;
+}
+
+.row {
+	clear: both;
+}
